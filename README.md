@@ -9,6 +9,10 @@ No exemplo irei focar em um produto com o back-end feito em C# com um Servidor d
 |---|---|
 |Teste de Segurança|<a href="https://github.com/beefproject/beef">BEeF</a>|
 |Teste Unitário/Integrado|<a href="https://nunit.org/">NUnit</a>|
+|Teste de Tela Automatizado|<a href="https://www.selenium.dev/">Selenium</a>|
+|Teste de Tela Automatizado (BDD)|<a href="https://jasmine.github.io/">Jasmine</a>|
 |Teste de Tela Automatizado (ATTD)|<a href="https://robotframework.org/">Robot Framework</a>|
 |Teste Integrado|<a href="https://www.postman.com/">Postman</a>|
 |Cobertura de Código|<a href="http://www.ncover.com/">NCover</a>|
+
+Ok, temos várias ferramentas que fazem várias coisas, mas por onde começar? O ideal é utilizar o Product Owner nestes casos ou conversas com o usuário final, para que possamos definir as rotinas e produtos mais impactantes, como no nosso exemplo temos
