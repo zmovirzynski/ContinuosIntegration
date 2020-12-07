@@ -17,3 +17,5 @@ No exemplo irei focar em um produto com o back-end feito em C# com um Servidor d
 |Teste Integrado|<a href="https://hub.docker.com/">Docker</a>|
 
 Ok, temos várias ferramentas que fazem várias coisas, mas por onde começar? O ideal é utilizar o Product Owner nestes casos ou conversas com o usuário final, para que possamos definir as rotinas e produtos mais impactantes, como exemplo podemos tomar uma tela de login, sabemos que caso ocorra um erro na mesma podemos parar todo nosso produto, então qualquer situação é gravíssima.
+
+Agora que sabemos a rotina que temos quê proteger, o que fazer com ela? O ideial é iniciar com casos e cenários de teste, descrever tudo que possa ocorrer com aquela tela para que em futuras alterações o desenvolvedor caso novo na empresa conheça o funcionamento dela e o QA saiba os testes que devem ser feitos na tela.
